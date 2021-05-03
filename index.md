@@ -12,10 +12,10 @@
 ### Planner & Sticker Designs 
 
 <h4>Printable Planner Page</h4>
-<img src="images/printable-planner-example.png.png?raw=true"/>
+<img src="images/printable-planner-example.png.png"/>
 
 <h4>Printable Sticker Bundle</h4>
-<img src="images/sticker-example.png.png.png?raw=true"/>
+<img src="images/sticker-example.png.png.png"/>
 
 ### Graphic Designs 
 
