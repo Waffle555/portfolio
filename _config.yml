@@ -1,10 +1,18 @@
 title: Luna Call # your name (or website title) here
 logo: "/images/profile-pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Engineer Lead 1 yr
-  Engineer 2.5 yr
-  Graphic Design 2 yr
-  B.S. in EE from BYU-Provo
+  2021 Engineer Lead at Micron 
+  <br>
+  2020 Engineer 3 at Micron
+  <br>
+  2019 Engineer 2 at Micron
+  <br>
+  2018 Engineer 1 at IMFlash
+  <br>
+  2015 - 2017 Graphic Design & Online Retail on Etsy
+  <br>
+  2015 B.S. in EE from BYU-Provo
+  <br>
   <a href="https://www.linkedin.com/in/luna-call-a9727361/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
