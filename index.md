@@ -15,7 +15,7 @@
 <img src="images/printable-planner-example.png?raw=true"/>
 
 <h4>Printable Sticker Bundle</h4>
-<img src="images/sticker-example.png.png?raw=true"/>
+<img src="images/sticker-example.png?raw=true"/>
 
 ### Graphic Designs 
 
@@ -40,6 +40,3 @@
 
 deactivated shop link:  https://www.etsy.com/shop/PersonalGiftsbyLuna 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
