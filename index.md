@@ -1,4 +1,4 @@
-## 2015 - 2017 Graphics Design & Online Retail Portfolio
+## Graphics Design & Online Retail Portfolio
 
 ---
 
