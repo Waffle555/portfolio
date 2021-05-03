@@ -1,4 +1,4 @@
-## Luna Call 2015 - 2017 Graphics Design & Online Retail Portfolio
+##2015 - 2017 Graphics Design & Online Retail Portfolio
 
 ---
 
