@@ -17,6 +17,7 @@
 <h4>Printable Stickers</h4>
 <img src="images/MarchAccessariesprintable-01.png?raw=true"/>
 <img src="images/ProofConverter-02.png?raw=true"/>
+<img src="images/ProofBackground-07.png?raw=true"/>
 
 ### Graphic Designs 
 
