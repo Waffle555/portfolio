@@ -14,8 +14,9 @@
 <h4>Printable Planner Page</h4>
 <img src="images/printable-planner-example.png?raw=true"/>
 
-<h4>Printable Sticker Bundle</h4>
-<img src="images/sticker-example.png?raw=true"/>
+<h4>Printable Stickers</h4>
+<img src="images/MarchAccessariesprintable-01.png?raw=true"/>
+<img src="images/ProofConverter-02.png?raw=true"/>
 
 ### Graphic Designs 
 
